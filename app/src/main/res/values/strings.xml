@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Custom Tablayout</string>
+    <string name="viewPager2">ViewPager2</string>
+    <string name="tab">Tablayout</string>
+    <string name="tab_text_1">Home</string>
+    <string name="tab_text_2">Dashboard</string>
+    <string name="tab_text_3">Settings</string>
+    <string name="content_tab_text">This is Tab %1$d</string>
+
+</resources>
